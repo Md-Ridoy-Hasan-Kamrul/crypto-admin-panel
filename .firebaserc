@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "rainexchange1",
+    "  rainexchange1": "rainexchange1",
+    "y": "rainexchange1"
+  },
+  "targets": {},
+  "etags": {}
+}
